@@ -1,0 +1,21 @@
+Architecture
+	1. Http/Service
+	2. Database/Other
+
+Fallback
+
+Outer Timeout
+
+Retry
+
+Circuit Breaker
+
+Inner Timeout
+
+Wrappers
+
+HttpClientFactory extensions
+
+HttpClient handlers
+
+Test handlers/extensions
