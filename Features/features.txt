@@ -18,4 +18,4 @@ HttpClientFactory extensions
 
 HttpClient handlers
 
-Test handlers/extensions
+Test handlers
